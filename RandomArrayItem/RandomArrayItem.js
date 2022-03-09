@@ -1,3 +1,6 @@
+// See the pdf file in this folder
+
+
 const arr = ["A", "B", "C", "D", "E", "F", "G", "H"];
 let newArr = [];
 
@@ -8,8 +11,6 @@ function genRandomArray (param){
         param[Math.floor((Math.random() * (arr.length - 1)))],
         param[Math.floor((Math.random() * (arr.length - 1)))]]
 }
-
-console.log(genRandomArray(arr))
 
 for (let i = 0; newArr.length !== 3; i++){
     let array = genRandomArray(arr);
