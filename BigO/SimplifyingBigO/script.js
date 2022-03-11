@@ -20,4 +20,6 @@ function anotherFunChallenge(input) {
 Big O like the above, line by line.
 
 The above function is actually just,
-    O(n)*/
+    O(n)
+    
+There are just several rules to follow when it comes to Big O.*/

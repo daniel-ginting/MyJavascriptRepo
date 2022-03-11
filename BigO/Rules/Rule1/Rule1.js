@@ -67,6 +67,8 @@ we can't just assume that things are going well.
 
 Now eventhough the findNemo function might be O of 1 (O(1), if nemo is the very first item of the array.),
 it doesn't matter. Because we can't be certain of what the input is going to be, we must assume
-that the Big O notation is O(n) -- Linear Time
+that the Big O notation is O(n) -- Linear Time.
+
+To summarize, when we talk about Big O, we are referring to its worst case.
 
 */
