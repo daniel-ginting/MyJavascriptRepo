@@ -1,5 +1,5 @@
 {
-  "name": "nodejs(server)",
+  "name": "nodejs-server",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
   }
 }
